@@ -8,10 +8,18 @@ body{
 }
 #box{
     background-color:#C5D3D9;
-    padding:50px;
+    padding:20px;
     display:inline-block;
     margin-top:25%;
 }
 .input{
     margin:30px;
+    padding-top:50px;
+}
+
+@media only screen and (min-width: 700px) {
+.input{
+    height:100px;
+    width:350px;
+}
 }
