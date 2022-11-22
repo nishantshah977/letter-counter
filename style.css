@@ -1,0 +1,17 @@
+body{
+    background-color:#A6977B;
+}
+#parent{  
+    text-align:center;
+    display:block;
+    
+}
+#box{
+    background-color:#C5D3D9;
+    padding:50px;
+    display:inline-block;
+    margin-top:25%;
+}
+.input{
+    margin:30px;
+}
